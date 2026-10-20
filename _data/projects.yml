@@ -1,0 +1,52 @@
+- id: '01'
+  title: LLM-Driven Inclusive UX Design (or Agentic AI for Inclusive Design)
+  description: Although several everyday services such as sales/commerce or booking a taxi have been digitized to increase convenience, certain populations - such as older adults or those with visual impairments - continue to be excluded from these services due to inaccessible design. To mitigate this issue, this study explores the development of conversational agents that can interact with users and act based on their preferences or instructions (e.g. modifying the display of a website, or making an online purchase).
+  members: Kwan M. Lee · Tang Kaiyuan · Shreya Gopi · Xie Li
+- id: '02'
+  title: Impact of Chatbots' Linguistic Registers on Language Learning
+  description: Traditionally, language acquisition involves the dedication of human teachers. Nowadays, people can utilize AI agents, a system that mimics human conversations to learn languages anytime and anywhere with less cost and stress. At this point, the study tends to examine the effectiveness of learning English by using AI agents.
+  members: Kwan M. Lee · Xie Li · Dr. Won Young Chung · Pragya Chandel
+- id: '03'
+  title: 'Hello, I''m Your ChatGPT Assistant: The Interactive Effects of AI Agent Style, User Type, Product Attributes in an E-Commerce Context'
+  description: AI-driven agents increase the conversational level in human-chatbot communication, which could influence people's online shopping experiences. The study examines how different types of AI agents who perform the role of salespersons could affect users' evaluation of the machine, products being sold, and their interaction experiences with the AI agents.
+  members: Kwan M. Lee · Xie Li · Liu Jiaxi · Shreya Gopi
+- id: '04'
+  title: 'The Motivation of Pro-environmental Behavior: Focusing on Psychological Ownership and Attachment'
+  description: One of the most important governmental policies is protecting the environment. I want it to insist the feelings of ownership of the green environment and attachment of it is useful way to protect the environment and encourage people to do pro-environmental behavior.
+  members: Kwan M. Lee · Dr. Won Young Chung
+- id: '05'
+  title: Alleviating Trolling Behavior Using Psychological Ownership
+  description: As online trolling behavior is prevalent, I want it to suggest incepting the feeling of ownership will help trolls to alleviate such behavior online.
+  members: Kwan M. Lee · Dr. Won Young Chung
+- id: '06'
+  title: Investigating the Effects of Gender-Role Stereotyping on User Experience in the Context of Fintech Services
+  description: The increasing use of virtual agents in fintech services comes with the challenge of gaining clients' trust and building a good relationship with them. The financial industry is associated with both stereotypically masculine traits, such as being dominant, as well as stereotypically feminine traits, such as being helpful and service-oriented. This study examines how the agent's sex representation (male or female), its conversation style (masculine or feminine), and the sex of the user (male or female) affect the evaluation of the virtual financial agent.
+  members: Kwan M. Lee · Cui Min · Shreya Gopi
+- id: '07'
+  title: Social Responses to Robo-Advisors
+  description: The fintech industry is expanding and companies are increasingly using virtual agents in their client services. This study examines how the fintech agent's personality, user's personality, and market volatility interact to affect user experience.
+  members: Kwan M. Lee · Yihan · Shreya Gopi
+- id: 08
+  title: News Explication
+  description: This paper explains what are the dimensions of news in the context of AI. Additionally, it tries to shed on light on how we could understand the relationships between news, "fake news", and other types of information.
+  members: Kwan M. Lee · Shreya Gopi
+- id: 09
+  title: AI Addiction
+  description: This project focus on the emerging concern of AI addiction, examining its conceptual foundation and potential interventions to foster positive AI use. By analyzing the psychological and behavioral factors driving AI dependency, we identify key strategies to promote mindful use and balanced AI application.
+  members: Kwan M. Lee · Yanqin Wu
+- id: '10'
+  title: Chatbot Personality
+  description: Focusing on personality similarity as a key factor in relationship building, the study explores how a chatbot has similar personality with user influence users' relationship perceptions toward the chatbot and evaluation of the app in a longitudinal context.
+  members: Kwan M. Lee · Yanqin Wu
+- id: '11'
+  title: Research on Failure Scenarios of Government AI Chatbot Services
+  description: Despite the growing deployment of AI chatbots in government services to enhance accessibility and efficiency, their failure scenarios—such as misinformation delivery, empathy deficits, or procedural rigidity—pose critical risks to public trust and service equity. While existing studies predominantly focus on technical performance metrics (e.g., accuracy, response time), there is limited understanding of how citizens perceive and respond to AI failures in bureaucratic contexts. This study investigates failure scenarios of government AI chatbot services through a three-phase exploratory design.
+  members: Kwan M. Lee · Haodong Sun
+- id: '12'
+  title: VR Exergames Discontinuance Behavior
+  description: With the widespread application of virtual reality (VR) exergames in health promotion, the issue of sustained usage after initial adoption has become increasingly prominent. While existing research predominantly focuses on explaining initial usage intentions through models such as the Technology Acceptance Model (TAM) or Flow Theory, the mechanisms underlying user discontinuance behavior remain underexplored. This study aims to employ a mixed-methods design to uncover the core drivers and their interactive effects influencing discontinuance behavior among VR exergame users.
+  members: Kwan M. Lee · Haodong Sun
+- id: '13'
+  title: 'GenAI Augmented Creativity for Narrative Composition: A Cognitive Neuroscience Perspective on Human-AI Collaboration in Creative Writing'
+  description: This project aims to investigate the efficacy of Llama 3.1 in enhancing the creativity of primary school students in Singapore. Using a mixed-methods approach, including fNIRS, questionnaires, and AI/human feedback, it will examine differences in narrative intelligence and cognitive processing between traditional and AI-assisted writing. The study will explore how AI can scaffold creativity without promoting overreliance while providing insights into its role in fostering critical thinking and originality in young writers.
+  members: Kwan M. Lee · Prof. Samantha Chan (CCDS, NTU) · Prof. Vahid Aryadoust (NIE) · Pragya Chandel

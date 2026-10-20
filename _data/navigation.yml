@@ -1,0 +1,20 @@
+main:
+  - title: "Home"
+    url: "/"
+    slug: "home"
+
+  - title: "About Us"
+    url: "/about/"
+    slug: "about"
+
+  - title: "People"
+    url: "/people/"
+    slug: "people"
+
+  - title: "Publications"
+    url: "/publications/"
+    slug: "publications"
+
+  - title: "Contact"
+    url: "/about/#contact"
+    slug: "contact"

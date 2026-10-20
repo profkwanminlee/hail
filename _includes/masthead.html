@@ -1,0 +1,46 @@
+<header class="navbar" id="siteNavbar">
+  <div class="navbar__inner">
+    <a href="{{ '/' | relative_url }}" class="navbar__brand" aria-label="Human-AI Interaction Lab Home">
+      <img src="{{ '/images/ntu-logo.png' | relative_url }}" alt="Nanyang Technological University" class="navbar__logo-ntu">
+      <span class="navbar__logo-divider" aria-hidden="true"></span>
+      <img src="{{ '/images/hail-logo.png' | relative_url }}" alt="Human-AI Interaction Lab" class="navbar__logo-hail">
+    </a>
+
+    <nav class="navbar__nav" aria-label="Main Navigation">
+      <ul class="navbar__links">
+        {% for item in site.data.navigation.main %}
+        {% assign is_active = false %}
+        {% if page.url == item.url or page.slug == item.slug %}
+          {% assign is_active = true %}
+        {% endif %}
+        <li class="navbar__item{% if is_active %} active{% endif %}">
+          <a href="{{ item.url | relative_url }}">
+            <span>{{ item.title }}</span>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+
+      <button id="mobileNavToggle" class="navbar__hamburger" aria-label="Toggle navigation menu" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<!-- Mobile Navigation Drawer -->
+<div id="mobileNavOverlay" class="mobile-nav-overlay" aria-hidden="true">
+  <ul class="mobile-nav-list">
+    {% for item in site.data.navigation.main %}
+    {% assign is_active = false %}
+    {% if page.url == item.url or page.slug == item.slug %}
+      {% assign is_active = true %}
+    {% endif %}
+    <li class="mobile-nav-item{% if is_active %} active{% endif %}">
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
