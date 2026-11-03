@@ -5,7 +5,7 @@ permalink: /research/
 hero_title: "Research"
 hero_subtitle: "Exploring human cognition, behavioral responses, and societal transformations across physical and virtual AI environments."
 hero_image: "/images/hero/research.jpg"
-hero_crop: "center 38%"
+hero_crop: "center 48%"
 description: "Research pillars and active empirical projects at the Human-AI Interaction Lab (HAIL) and Interaction Lab, NTU Singapore."
 ---
 

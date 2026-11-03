@@ -5,7 +5,7 @@ permalink: /people/
 hero_title: "People"
 hero_subtitle: "Faculty investigators, doctoral researchers, visiting scholars, and student collaborators."
 hero_image: "/images/hero/people.jpg"
-hero_crop: "center 42%"
+hero_crop: "center 17%"
 description: "Faculty, researchers, students, and alumni of the Human-AI Interaction Lab (HAIL) and Interaction Lab, NTU Singapore."
 ---
 

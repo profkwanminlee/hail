@@ -6,7 +6,7 @@ custom_js: "/assets/js/publications.js"
 hero_title: "Publications"
 hero_subtitle: "Journal articles, conference proceedings, book chapters, and theoretical treatises in human-AI interaction and cognitive presence."
 hero_image: "/images/hero/publications.jpg"
-hero_crop: "center 32%"
+hero_crop: "center 42%"
 description: "Complete archive of refereed journal articles, conference papers, and treatises by researchers at the Human-AI Interaction Lab, NTU Singapore."
 ---
 

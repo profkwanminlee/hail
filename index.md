@@ -6,7 +6,7 @@ is_home: true
 hero_title: "Human-AI Interaction Lab & Interaction Lab"
 hero_subtitle: "Exploring what happens in the human mind, behaviour, and society when we interact with AI that increasingly looks, acts, and thinks like us."
 hero_image: "/images/hero/home.jpg"
-hero_crop: "center 42%"
+hero_crop: "center 62%"
 description: "Human-AI Interaction Lab (HAIL) and Interaction Lab at NTU Singapore study cognitive neuroscience, psychology, and behavioral science in human-AI interaction."
 ---
 
