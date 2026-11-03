@@ -1,0 +1,37 @@
+title: "Human-AI Interaction Lab (HAIL) | NTU Singapore"
+name: "Human-AI Interaction Lab"
+short_name: "HAIL"
+tagline: "Advancing Psychologically Aligned and Ethically Designed AI Systems"
+description: "Human-AI Interaction Lab (HAIL) at Nanyang Technological University (NTU Singapore) investigates the psychological, cognitive, and social dimensions of human-AI interaction."
+url: "https://profkwanminlee.github.io"
+baseurl: "/hail"
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+include:
+  - _pages
+
+lab:
+  name: "Human-AI Interaction Lab (HAIL)"
+  director: "Kwan M. Lee"
+  director_full: "Kwan M. Lee, Ph.D."
+  director_title: "Korea Foundation Endowed Chair Professor"
+  director_url: "https://profkwanminlee.github.io"
+  email: "kwanminlee@ntu.edu.sg"
+  ra_contact: "NIE23.PC@e.ntu.edu.sg"
+  institution: "Nanyang Technological University"
+  school: "Wee Kim Wee School of Communication and Information (WKWSCI)"
+  centre: "Asian Communication Research Centre (ACRC)"
+  address:
+    room: "4F, Communication and Informatics Laboratory Asia"
+    school: "Wee Kim Wee School of Communication and Information"
+    university: "Nanyang Technological University"
+    street: "31 Nanyang Link, Singapore 637718"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

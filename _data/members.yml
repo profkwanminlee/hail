@@ -1,0 +1,85 @@
+- name: Kwan M. Lee, Ph.D.
+  title: Korea Foundation Endowed Chair Professor · Lab Director
+  role_tag: Lab Director & Founder
+  image: /images/people/d08104b3371505e67fc8201bc5197796fc4d44ab-432x578.jpg
+  focus: Human-AI Interaction, User Experience (UX), Presence & Social Robotics
+  bio: Professor Kwan M. Lee is a leading global authority in UX research, Human-Computer Interaction (HCI), and digital culture. Mentored by Clifford Nass at Stanford University, he previously served as Vice President at Samsung Electronics leading the UX Group and founding C-Lab. He has spearheaded $12M+ in competitive research grants, published 130+ peer-reviewed treatises, holds 10 US patents, and is an elected Fellow of the International Communication Association (ICA).
+  links:
+  - title: Personal Website
+    url: https://profkwanminlee.github.io
+    icon: fa-solid fa-globe
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=G9RTDwMAAAAJ&hl=en
+    icon: ai ai-google-scholar
+  - title: NTU Faculty Directory
+    url: https://dr.ntu.edu.sg/entities/person/Lee-Kwan-Min
+    icon: fa-solid fa-graduation-cap
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/leekwanmin
+    icon: fa-brands fa-linkedin
+
+- name: Shreya Gopi
+  title: Doctoral Candidate · Lead Researcher
+  role_tag: PhD Candidate
+  image: /images/people/e77fa0666954495fdb0b5ed902d72c76f77b5695-976x1219.jpg
+  focus: Explainable AI (XAI) & Psychological Trust
+  bio: Shreya is a PhD candidate at the Wee Kim Wee School of Communication and Information. Her research centers on human-AI interaction and the psychological effects of information communication technologies. Currently, she is examining the cognitive and affective effects of interacting with AI systems that explain decision rationale (Explainable AI), focusing on trust calibration and algorithmic appreciation.
+  links:
+  - title: Email
+    url: mailto:NIE23.PC@e.ntu.edu.sg
+    icon: fa-solid fa-envelope
+
+- name: Li Xie (Sherry)
+  title: Doctoral Student · Researcher
+  role_tag: PhD Student
+  image: /images/people/8d1c034f6d1730ee67dd714458a0367327b499c4-1279x1599.jpg
+  focus: AI in Journalism & Media Psychology
+  bio: Li Xie (Sherry) is a PhD student at Wee Kim Wee School of Communication and Information, Nanyang Technological University. Her research investigates how AI-enabled systems (particularly conversational agents) transform journalistic practice and shape psychological perceptions among audience demographics. Prior to NTU, Li earned her Master's at HKPU and worked as a professional news editor.
+  links:
+  - title: Email
+    url: mailto:kwanminlee@ntu.edu.sg
+    icon: fa-solid fa-envelope
+
+- name: Yanqin Wu (Yasmin)
+  title: Doctoral Student · Researcher
+  role_tag: PhD Student
+  image: /images/people/e79398e5212b89e239c88f2d024f8d5cd81084e8-2396x2995.jpg
+  focus: Mental Health Communication & AI Addiction
+  bio: Yanqin (Yasmin) is a PhD student at WKWSCI, Nanyang Technological University. Her research spans human-AI interaction, health communication (focusing on mental health and digital stress management), and media effects. Her empirical studies investigate how digital agents and personalized conversational AI modulate psychological well-being and behavioral outcomes.
+  links:
+  - title: Email
+    url: mailto:kwanminlee@ntu.edu.sg
+    icon: fa-solid fa-envelope
+
+- name: Heyongsun Im
+  title: Doctoral Student · Researcher
+  role_tag: PhD Student
+  image: /images/people/74bce6ce9e7d195fda969f3f80ca5667ad9e6d0a-1201x1501.jpg
+  focus: HCI & Social Simulation with Agentic AI
+  bio: Hyeongsun is a PhD student at WKWSCI, Nanyang Technological University. His research focuses on Human-Computer Interaction, Human-AI Collaboration, and multi-agent social simulations. He develops synthetic panels and artificial societies simulating diverse human populations to explore complex behavioral dynamics.
+  links:
+  - title: Email
+    url: mailto:kwanminlee@ntu.edu.sg
+    icon: fa-solid fa-envelope
+
+- name: Keqi Chen
+  title: Doctoral Student · Automotive HCI
+  role_tag: PhD Student
+  image: /images/people/37fe9a285b2a3b28b0ddacced1543efdbecd0abb-1280x1600.jpg
+  focus: Autonomous Vehicles & Smart Cockpit UX
+  bio: Keqi Chen is a PhD student at the School of Mechanical and Aerospace Engineering (MAE) at NTU. Holding a Master's degree in Design Informatics from the University of Edinburgh, his research investigates interaction design in smart vehicular cockpits and multimodal communication between drivers and autonomous vehicle agents.
+  links:
+  - title: Email
+    url: mailto:kwanminlee@ntu.edu.sg
+    icon: fa-solid fa-envelope
+
+- name: Young Eun Kim
+  title: Visiting Doctoral Scholar · SKKU
+  role_tag: Visiting PhD Scholar
+  image: /images/people/11b8d8fa0dc5f47798479adaec317aa8a990c263-413x516.jpg
+  focus: Interaction Science & User Experience
+  bio: Young Eun Kim is a PhD candidate in Interaction Science at Sungkyunkwan University (SKKU), South Korea, currently conducting research at WKWSCI, NTU Singapore as a visiting scholar. Her research focuses on human-agent interaction modalities and user psychological responses.
+  links:
+  - title: Email
+    url: mailto:kwanminlee@ntu.edu.sg
+    icon: fa-solid fa-envelope

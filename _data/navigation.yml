@@ -1,0 +1,24 @@
+main:
+  - title: "About Us"
+    url: "/about/"
+    slug: "about"
+
+  - title: "Research"
+    url: "/research/"
+    slug: "research"
+
+  - title: "Publications"
+    url: "/publications/"
+    slug: "publications"
+
+  - title: "People"
+    url: "/people/"
+    slug: "people"
+
+  - title: "Events & News"
+    url: "/events/"
+    slug: "events"
+
+  - title: "Contact"
+    url: "/contact/"
+    slug: "contact"
