@@ -17,7 +17,7 @@ description: "Faculty, researchers, students, and alumni of the Human-AI Interac
       <img src="{{ '/images/people/kwanminlee.jpg' | relative_url }}" alt="Prof. Kwan Min Lee" class="director-avatar-img">
     </div>
     <div class="director-meta-wrap">
-      <h3 class="director-name-title"><a href="https://kwanminlee.com" target="_blank" rel="noopener noreferrer" class="person-profile-link" title="Visit my website!">Kwan Min Lee</a></h3>
+      <h3 class="director-name-title"><a href="https://kwanminlee.com" target="_blank" rel="noopener noreferrer" class="person-profile-link" title="Visit my website!" style="text-decoration: none;">Kwan Min Lee</a></h3>
       <p class="director-role-title">Director, Human-AI Interaction Lab &amp; Interaction Lab</p>
       <div class="person-website-wrap">
         <a href="https://kwanminlee.com" target="_blank" rel="noopener noreferrer" class="person-website-link">kwanminlee.com</a>
@@ -125,7 +125,7 @@ description: "Faculty, researchers, students, and alumni of the Human-AI Interac
         <img src="{{ '/images/people/manan.jpg' | relative_url }}" alt="Manan Sethia" class="person-avatar-img">
       </div>
       <div class="person-meta-wrap">
-        <h3 class="person-name-title"><a href="https://manansethia.com" target="_blank" rel="noopener noreferrer" class="person-profile-link" title="Visit my website!">Manan Sethia</a></h3>
+        <h3 class="person-name-title"><a href="https://manansethia.com" target="_blank" rel="noopener noreferrer" class="person-profile-link" title="Visit my website!" style="text-decoration: none;">Manan Sethia</a></h3>
         <p class="person-role-title">Web Master</p>
         <div class="person-website-wrap">
           <a href="https://manansethia.com" target="_blank" rel="noopener noreferrer" class="person-website-link">manansethia.com</a>

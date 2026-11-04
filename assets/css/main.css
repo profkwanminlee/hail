@@ -815,18 +815,27 @@ hr {
   text-decoration: underline;
 }
 
+.editorial-prose a.person-profile-link,
+.editorial-prose .director-name-title a,
+.editorial-prose .person-name-title a,
 .person-profile-link {
-  color: inherit;
-  text-decoration: none;
+  color: inherit !important;
+  text-decoration: none !important;
   cursor: pointer;
   display: inline-block;
   transition: color 0.2s ease;
 }
 
+.editorial-prose a.person-profile-link:hover,
+.editorial-prose a.person-profile-link:focus-visible,
+.editorial-prose .director-name-title a:hover,
+.editorial-prose .director-name-title a:focus-visible,
+.editorial-prose .person-name-title a:hover,
+.editorial-prose .person-name-title a:focus-visible,
 .person-profile-link:hover,
 .person-profile-link:focus-visible {
-  color: var(--ntu-red);
-  text-decoration: none;
+  color: var(--ntu-red) !important;
+  text-decoration: none !important;
 }
 
 /* Horizontal Researcher & Alumni Rows (Strictly Horizontal on All Devices) */
