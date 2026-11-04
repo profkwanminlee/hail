@@ -142,19 +142,32 @@ hr {
   left: 0;
   width: 100%;
   height: var(--navbar-height);
-  background: rgba(244, 246, 249, 0.88);
-  backdrop-filter: blur(16px) saturate(160%);
-  -webkit-backdrop-filter: blur(16px) saturate(160%);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 35, 71, 0.18) 0%,
+    rgba(0, 35, 71, 0.08) 12%,
+    rgba(244, 246, 249, 0.88) 22%,
+    rgba(244, 246, 249, 0.92) 100%
+  );
+  backdrop-filter: blur(20px) saturate(160%);
+  -webkit-backdrop-filter: blur(20px) saturate(160%);
   z-index: 1000;
-  transition: box-shadow var(--transition-fast), background-color var(--transition-fast);
+  transition: box-shadow var(--transition-fast), background var(--transition-fast);
   border-bottom: 2.5px solid var(--ntu-navy);
+  box-shadow: 0 4px 16px rgba(0, 35, 71, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.45);
 }
 
 .navbar--scrolled {
-  background: rgba(240, 243, 248, 0.95);
-  backdrop-filter: blur(16px) saturate(160%);
-  -webkit-backdrop-filter: blur(16px) saturate(160%);
-  box-shadow: 0 2px 14px rgba(0, 35, 71, 0.08);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 35, 71, 0.22) 0%,
+    rgba(0, 35, 71, 0.10) 12%,
+    rgba(240, 243, 248, 0.94) 22%,
+    rgba(240, 243, 248, 0.97) 100%
+  );
+  backdrop-filter: blur(20px) saturate(160%);
+  -webkit-backdrop-filter: blur(20px) saturate(160%);
+  box-shadow: 0 4px 18px rgba(0, 35, 71, 0.12), inset 0 1px 0 rgba(255, 255, 255, 0.45);
 }
 
 .navbar__inner {
@@ -1176,13 +1189,13 @@ hr {
 .site-footer {
   width: 100%;
   margin-top: auto;
-  background-color: #F4F6F9;
+  background: linear-gradient(180deg, #0d2345 0%, #071830 10%, #030f21 24%, #030f21 100%);
   position: relative;
 }
 
 .footer-top-rule {
   height: 2.5px;
-  background: var(--ntu-navy);
+  background: var(--ntu-red);
 }
 
 .footer-simple {
@@ -1193,18 +1206,18 @@ hr {
   justify-content: space-between;
   align-items: center;
   font-size: 0.88rem;
-  color: #4A5B73;
+  color: #A3B8CC;
   flex-wrap: wrap;
   gap: 12px;
 }
 
 .footer-simple__left strong {
-  color: var(--ntu-navy);
+  color: #FFFFFF;
 }
 
 .footer-simple__right {
   font-size: 0.84rem;
-  color: #6C7D93;
+  color: #8CA0B8;
 }
 
 .footer-simple__right a {
@@ -1214,7 +1227,7 @@ hr {
 }
 
 .footer-simple__right a:hover {
-  color: #9E0226;
+  color: #FF6B6B;
 }
 
 /* ==========================================================================
