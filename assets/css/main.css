@@ -32,7 +32,7 @@
 
   /* Sizing & Elevation */
   --navbar-height: 74px;
-  --max-width: 1140px;
+  --max-width: 1320px;
   --radius-xs: 4px;
   --radius-sm: 6px;
   --radius-md: 10px;
@@ -144,34 +144,30 @@ hr {
   height: var(--navbar-height);
   background: linear-gradient(
     180deg,
-    rgba(0, 35, 71, 0.18) 0%,
-    rgba(0, 35, 71, 0.08) 12%,
-    rgba(244, 246, 249, 0.88) 22%,
-    rgba(244, 246, 249, 0.92) 100%
+    rgba(230, 236, 244, 0.97) 0%,
+    rgba(248, 250, 253, 0.97) 100%
   );
-  backdrop-filter: blur(20px) saturate(160%);
-  -webkit-backdrop-filter: blur(20px) saturate(160%);
+  backdrop-filter: blur(12px) saturate(130%);
+  -webkit-backdrop-filter: blur(12px) saturate(130%);
   z-index: 1000;
   transition: box-shadow var(--transition-fast), background var(--transition-fast);
   border-bottom: 2.5px solid var(--ntu-navy);
-  box-shadow: 0 4px 16px rgba(0, 35, 71, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.45);
+  box-shadow: 0 2px 10px rgba(0, 35, 71, 0.05);
 }
 
 .navbar--scrolled {
   background: linear-gradient(
     180deg,
-    rgba(0, 35, 71, 0.22) 0%,
-    rgba(0, 35, 71, 0.10) 12%,
-    rgba(240, 243, 248, 0.94) 22%,
-    rgba(240, 243, 248, 0.97) 100%
+    rgba(224, 232, 242, 0.98) 0%,
+    rgba(244, 247, 251, 0.98) 100%
   );
-  backdrop-filter: blur(20px) saturate(160%);
-  -webkit-backdrop-filter: blur(20px) saturate(160%);
-  box-shadow: 0 4px 18px rgba(0, 35, 71, 0.12), inset 0 1px 0 rgba(255, 255, 255, 0.45);
+  backdrop-filter: blur(12px) saturate(130%);
+  -webkit-backdrop-filter: blur(12px) saturate(130%);
+  box-shadow: 0 4px 14px rgba(0, 35, 71, 0.08);
 }
 
 .navbar__inner {
-  max-width: 1200px;
+  max-width: 1320px;
   height: 100%;
   margin: 0 auto;
   padding: 0 1.75rem;
@@ -1199,16 +1195,20 @@ hr {
 }
 
 .footer-simple {
-  max-width: 1200px;
+  max-width: 1320px;
   margin: 0 auto;
   padding: 1.5rem 1.75rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-size: 0.88rem;
-  color: #A3B8CC;
+  color: #F1F5F9;
   flex-wrap: wrap;
   gap: 12px;
+}
+
+.footer-simple__left {
+  color: #F1F5F9;
 }
 
 .footer-simple__left strong {
@@ -1217,7 +1217,7 @@ hr {
 
 .footer-simple__right {
   font-size: 0.84rem;
-  color: #8CA0B8;
+  color: #FFFFFF;
 }
 
 .footer-simple__right a {
