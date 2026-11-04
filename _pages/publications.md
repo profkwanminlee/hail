@@ -19,15 +19,6 @@ description: "Complete archive of refereed journal articles, conference papers, 
       Theme View
     </button>
   </div>
-
-  <div class="pub-search">
-    <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
-    <input type="text" id="pubSearchInput" placeholder="Filter by keyword, author, year, or title..." aria-label="Search Publications">
-  </div>
-
-  <div class="pub-count-badge" id="pubCountDisplay">
-    <span>Showing {{ site.data.publications.size }} publications</span>
-  </div>
 </div>
 
 <!-- 1. Timeline View (Default) -->

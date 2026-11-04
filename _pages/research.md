@@ -15,7 +15,7 @@ description: "Research pillars and active empirical projects at the Human-AI Int
     Our research program investigates the psychological, cognitive, and social dimensions of interacting with intelligent technologies through five core pillars:
   </p>
 
-  <ol class="pillar-numbered-list">
+  <ul class="pillar-bullet-list">
     <li>
       <h3>Human-AI Interaction</h3>
       <p>
@@ -46,7 +46,7 @@ description: "Research pillars and active empirical projects at the Human-AI Int
         Developing novel computational methodologies - such as synthetic panels, artificial societies, and AI co-scientists - alongside deep learning and LLM applications for detecting fake news and synthetic media.
       </p>
     </li>
-  </ol>
+  </ul>
 
   <h2>Active Research Projects</h2>
   <p>

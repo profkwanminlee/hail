@@ -32,7 +32,7 @@
 
   /* Sizing & Elevation */
   --navbar-height: 74px;
-  --max-width: 1040px;
+  --max-width: 1140px;
   --radius-xs: 4px;
   --radius-sm: 6px;
   --radius-md: 10px;
@@ -127,7 +127,7 @@ hr {
 /* Container Utility */
 .container {
   width: 100%;
-  max-width: 1200px;
+  max-width: 1320px;
   margin: 0 auto;
   padding-left: 1.75rem;
   padding-right: 1.75rem;
@@ -241,7 +241,7 @@ hr {
   display: inline-flex;
   align-items: center;
   padding: 8px 4px;
-  font-size: 0.95rem;
+  font-size: 1.00rem;
   font-weight: 700;
   color: var(--text-primary);
   text-decoration: none;
@@ -675,8 +675,9 @@ hr {
   color: var(--text-muted);
 }
 
-/* Research Pillars Numbered List */
-.pillar-numbered-list {
+/* Research Pillars Numbered and Bulleted Lists */
+.pillar-numbered-list,
+.pillar-bullet-list {
   padding-left: 1.5rem;
   margin: 1rem 0 2.25rem 0;
   display: flex;
@@ -684,18 +685,21 @@ hr {
   gap: 1.25rem;
 }
 
-.pillar-numbered-list > li {
+.pillar-numbered-list > li,
+.pillar-bullet-list > li {
   padding-left: 0.5rem;
   line-height: 1.65;
 }
 
-.pillar-numbered-list > li::marker {
+.pillar-numbered-list > li::marker,
+.pillar-bullet-list > li::marker {
   font-weight: 800;
   color: var(--ntu-red);
   font-size: 1.15rem;
 }
 
-.pillar-numbered-list h3 {
+.pillar-numbered-list h3,
+.pillar-bullet-list h3 {
   font-size: 1.2rem;
   font-weight: 700;
   color: var(--ntu-navy);
@@ -703,7 +707,8 @@ hr {
   margin-top: 0;
 }
 
-.pillar-numbered-list p {
+.pillar-numbered-list p,
+.pillar-bullet-list p {
   font-size: 1.02rem;
   color: var(--text-body);
   line-height: 1.7;
@@ -810,6 +815,20 @@ hr {
   text-decoration: underline;
 }
 
+.person-profile-link {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  transition: color 0.2s ease;
+}
+
+.person-profile-link:hover,
+.person-profile-link:focus-visible {
+  color: var(--ntu-red);
+  text-decoration: none;
+}
+
 /* Horizontal Researcher & Alumni Rows (Strictly Horizontal on All Devices) */
 .people-list-container {
   display: flex;
@@ -886,7 +905,7 @@ hr {
 .pub-controls {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 1.25rem;
   margin-bottom: 2rem;
   flex-wrap: wrap;
@@ -1247,7 +1266,56 @@ hr {
 /* ==========================================================================
    Responsive Media Queries
    ========================================================================== */
-@media (max-width: 860px) {
+@media (max-width: 1280px) and (min-width: 1161px) {
+  .navbar__links {
+    gap: 1.25rem;
+  }
+  .navbar__link {
+    font-size: 0.94rem;
+    padding: 6px 2px;
+  }
+}
+
+@media (max-width: 1160px) and (min-width: 1051px) {
+  .navbar__links {
+    gap: 1rem;
+  }
+  .navbar__link {
+    font-size: 0.88rem;
+    padding: 5px 2px;
+  }
+  .navbar__logo-ntu {
+    height: 35px;
+  }
+  .navbar__logo-hail {
+    height: 35px;
+  }
+  .navbar__logo-divider {
+    margin: 0 10px;
+  }
+}
+
+@media (max-width: 1050px) and (min-width: 981px) {
+  .navbar__links {
+    gap: 0.8rem;
+  }
+  .navbar__link {
+    font-size: 0.82rem;
+    padding: 4px 1px;
+  }
+  .navbar__logo-ntu {
+    height: 32px;
+  }
+  .navbar__logo-hail {
+    height: 32px;
+  }
+  .navbar__logo-divider {
+    height: 22px;
+    margin: 0 8px;
+  }
+}
+
+@media (max-width: 980px) {
   :root {
     --navbar-height: 68px;
   }

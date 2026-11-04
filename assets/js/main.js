@@ -39,6 +39,12 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
     });
+
+    window.addEventListener('resize', () => {
+      if (window.innerWidth > 980 && hamburger.classList.contains('is-active')) {
+        toggleMenu();
+      }
+    }, { passive: true });
   }
 
   // 3. Project Accordion Item Expansion (About Page & Home)
