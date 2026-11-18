@@ -1,0 +1,23 @@
+- name: "Dr. Kyung-Won Cho"
+  role: "Postdoctoral Fellow & Research Associate"
+  image: "/images/people/drkyungwoncho.png"
+
+- name: "Dr. Won Young Chung"
+  role: "Research Fellow & Lab Researcher"
+  image: "/images/people/drwonyoungchung.jpg"
+
+- name: "Pragya Chandel"
+  role: "Student Research Assistant & Lab Member"
+  image: "/images/people/pragyachandel.jpg"
+
+- name: "Kaiyuan Tang"
+  role: "Research Assistant & HCI Specialist"
+  image: "/images/people/kaiyuantang.jpg"
+
+- name: "Jiaxi Liu"
+  role: "Research Assistant & Social Computing"
+  image: "/images/people/jiaxiliu.jpg"
+
+- name: "Haodong Sun"
+  role: "Research Assistant & Exergames / Chatbots"
+  image: "/images/people/haodongsun.jpg"

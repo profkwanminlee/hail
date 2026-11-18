@@ -1,0 +1,34 @@
+main:
+  - title: "About Us"
+    url: "/about/"
+    slug: "about"
+
+  - title: "Research"
+    url: "/research/"
+    slug: "research"
+    children:
+      - title: "Research Pillars"
+        url: "/research/#research-pillars"
+      - title: "Active Research Projects"
+        url: "/research/#active-research-projects"
+
+  - title: "Publications"
+    url: "/publications/"
+    slug: "publications"
+    children:
+      - title: "Timeline View"
+        url: "/publications/#timeline"
+      - title: "Theme View"
+        url: "/publications/#themes"
+
+  - title: "People"
+    url: "/people/"
+    slug: "people"
+
+  - title: "Events & News"
+    url: "/events/"
+    slug: "events"
+
+  - title: "Contact"
+    url: "/contact/"
+    slug: "contact"
