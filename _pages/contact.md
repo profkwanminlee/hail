@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 hero_title: "Contact"
 hero_subtitle: "Connect with the Human-AI Interaction Lab at Nanyang Technological University, Singapore."
-hero_image: "/images/hero/Robotics Workshop Partners.png"
+hero_image: "/images/hero/Robotics Workshop Partners.jpg"
 hero_crop: "center 42%"
 description: "Laboratory location, address, and academic inquiry details for the Human-AI Interaction Lab (HAIL) at NTU Singapore."
 ---

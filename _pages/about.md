@@ -4,7 +4,7 @@ title: "About the Lab"
 permalink: /about/
 hero_title: "About the Lab"
 hero_subtitle: "Advancing cognitive neuroscience, psychology, and behavioral science at the frontiers of human-machine interaction."
-hero_image: "/images/hero/Collaborative AI Innovation Lab-1.png"
+hero_image: "/images/hero/Collaborative AI Innovation Lab-1.jpg"
 hero_crop: "center 45%"
 description: "Mission, methodology, and theoretical foundations of the Human-AI Interaction Lab (HAIL) and Interaction Lab at NTU Singapore."
 ---

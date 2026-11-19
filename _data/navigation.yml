@@ -16,10 +16,14 @@ main:
     url: "/publications/"
     slug: "publications"
     children:
-      - title: "Timeline View"
-        url: "/publications/#timeline"
-      - title: "Theme View"
-        url: "/publications/#themes"
+      - title: "Journal Articles"
+        url: "/publications/#journal-articles"
+      - title: "Conference Presentations"
+        url: "/publications/#conference-presentations"
+      - title: "Keynote Speeches"
+        url: "/publications/#keynote-speeches"
+      - title: "Books"
+        url: "/publications/#books"
 
   - title: "People"
     url: "/people/"

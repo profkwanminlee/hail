@@ -2,108 +2,92 @@
 layout: default
 title: "Publications"
 permalink: /publications/
-custom_js: "/assets/js/publications.js"
 hero_title: "Publications"
 hero_subtitle: "Journal articles, conference proceedings, book chapters, and theoretical treatises in human-AI interaction and cognitive presence."
-hero_image: "/images/hero/Human–AI Innovation Brainstorming Lab-5.png"
+hero_image: "/images/hero/Human–AI Innovation Brainstorming Lab-5.jpg"
 hero_crop: "center 42%"
 description: "Complete archive of refereed journal articles, conference papers, and treatises by researchers at the Human-AI Interaction Lab, NTU Singapore."
 ---
 
-<div class="pub-controls">
-  <div class="pub-tabs" role="tablist" aria-label="Publication View Filter">
-    <button id="tabTimeline" class="pub-tab is-active" role="tab" aria-selected="true">
-      Timeline View
-    </button>
-    <button id="tabTheme" class="pub-tab" role="tab" aria-selected="false">
-      Theme View
-    </button>
-  </div>
-</div>
+<div class="editorial-prose">
+  <h2 id="journal-articles">Journal Articles</h2>
+  <ul class="clean-bullet-list">
+    <li>Lee, S., Kim, T., <strong>Lee, K. M.</strong>, Park, N., &amp; Song, H. (2025). Bringing people into the story: How virtual reality journalism affects the feeling of presence. <em>Digital Journalism</em>. <a href="https://doi.org/10.1080/21670811.2025.2553157" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Sun, S., Kim, J. H., <strong>Lee, K. M.</strong>, &amp; Nan, D. (2024). Exploring the association between the Proteus effect and intention to play massive multiplayer online role-playing games (MMORPGs). <em>Internet Research, 34</em>(1), 58-78. <a href="https://doi.org/10.1108/INTR-07-2022-0487" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li><strong>Lee, K. M.</strong>, Wu, D-Y., Hsu, C-Y., &amp; Cheng, P-W. (2024). Replicable Innovation: Bridging Theory and Real-World Applications. <em>Information Society Studies, 47</em>, pp. 1-15. <a href="https://doi.org/10.29843/JCCIS.202407_(47).0001" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li><strong>Lee, K. M.</strong>, Moon, Y., Park, I., &amp; Lee, J. (2023). Voice orientation of conversational interfaces in vehicles. <em>Behaviour &amp; Information Technology</em>. <a href="https://doi.org/10.1080/0144929X.2023.2166870" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Pal, A., Gopi, S., &amp; <strong>Lee, K. M.</strong> (2023). Fintech agents: Technologies and theories. <em>Electronics, 12</em>(15), 3301. <a href="https://doi.org/10.3390/electronics12153301" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Pal, A., Gopi, S., &amp; <strong>Lee, K. M.</strong> (2023). Financial Technologies. In Encyclopedia. <a href="https://encyclopedia.pub/entry/51483" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li><strong>Lee, K. M.</strong>, Lee, J., &amp; Sah, Y. J. (2022). Interacting with an embodied interface effects of embodied agent and voice command on smart TV interface. <em>Interaction Studies, 23</em>(1), 116-142. <a href="https://doi.org/10.1075/is.20030.lee" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Lee, J., &amp; <strong>Lee, K. M.</strong> (2022). Polite speech strategies and their impact on drivers&#39; trust in autonomous vehicles. <em>Computers in Human Behavior, 127</em>, 107015. <a href="https://doi.org/10.1016/j.chb.2021.107015" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Wang, X., Shi, J., &amp; <strong>Lee, K. M.</strong> (2022). The digital divide and seeking health information on smartphones in Asia: Survey study of ten countries. <em>Journal of Medical Internet Research, 24</em>(1), e24086. <a href="https://doi.org/10.2196/24086" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li><strong>Lee, K. M.</strong>, &amp; Sah, Y. J. (2022). Cultural differences in digital game experiences: Psychological responses to avatar and game environments. <em>International Journal of Gaming and Computer-Mediated Simulations (IJGCMS), 14</em>(1), 1-15. <a href="https://doi.org/10.4018/IJGCMS.313186" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Stavropoulos, V., Ratan, R., &amp; <strong>Lee, K. M.</strong> (2022). Editorial: User-avatar bond: Risk and opportunities in gaming and beyond. <em>Frontiers in Psychology, 13</em>, 923146. <a href="https://doi.org/10.3389/fpsyg.2022.923146" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Song, H., Kim, J., Nguyen, T., <strong>Lee, K. M.</strong>, &amp; Park, N. (2021). Virtual reality advertising with brand experiences: The effects of media devices, virtual representation of the self, and self-presence. <em>International Journal of Advertising, 40</em>(7), 1096-1114. <a href="https://doi.org/10.1080/02650487.2020.1834210" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Ratan, R., Earle, K., Rosenthal, S., Chen, V. H. H., Gambino, A., Goggin, G., Stevens, H., Li, B., &amp; <strong>Lee, K. M.</strong> (2021). The (digital) medium of mobility is the message: Examining the influence of e-scooter mobile app perceptions on e-scooter use intent. <em>Computers in Human Behavior Reports, 3</em>, 100076. <a href="https://doi.org/10.1016/j.chbr.2021.100076" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Wang, X. &amp; <strong>Lee, K. M.</strong> (2020). The paradox of technology innovativeness and risk perceptions - A profile of Asian smartphone users. <em>Telematics and Informatics, 51</em>, 101415. <a href="https://doi.org/10.1016/j.tele.2020.101415" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Lee, J. G., <strong>Lee, K. M.</strong>, &amp; Ryu, S. H. (2019). Vehicle politeness in driving situations. <em>Future Internet, 11</em>(1), 1-10. <a href="https://doi.org/10.3390/fi11010022" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Jung, Y., &amp; <strong>Lee, K. M.</strong> (2017). Human-computer interaction. In P. Roessler, C. A. Hoffner, &amp; L. van Zoonen (Eds.), The International Encyclopedia of Media Effects (pp. 721-730). Wiley-Blackwell. <a href="https://doi.org/10.1002/9781118783764.wbieme0140" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Hou, J., Rashid, J., &amp; <strong>Lee, K. M.</strong> (2017). Cognitive map or medium materiality? Reading on paper and screen. <em>Computers in Human Behavior, 67</em>, 84-94. <a href="https://doi.org/10.1016/j.chb.2016.10.014" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li><strong>Lee, K. M.</strong>, &amp; Park, N. (2016). Presence. In K. B. Jensen (Ed.), The International Encyclopedia of Communication Theory and Philosophy. Wiley-Blackwell.</li>
+    <li>Kang, S., <strong>Lee, K. M.</strong>, &amp; Cerda, Y. (2015). U.S. television news about the smartphone: A framing analysis of issues, sources, and aspects. <em>Online Journal of Communication and Media Technologies, 5</em>(1), 174-196.</li>
+    <li>Park, E. K., <strong>Lee, K. M.</strong>, &amp; Shin, D. H. (2015). Social responses to conversational TV VUI: Apology and voice. <em>International Journal of Technology and Human Interaction (IJTHI), 11</em>(1), 17-32.</li>
+    <li>Jin, S., Phua, J., &amp; <strong>Lee, K. M.</strong> (2015). Telling stories about breastfeeding through Facebook: The impact of user-generated content (UGC) on pro-breastfeeding attitudes. <em>Computers in Human Behavior, 46</em>, 6-17.</li>
+    <li>Jung, Y., Park, N., &amp; <strong>Lee, K. M.</strong> (2015). Effects of trait hostility, mapping interface, and character identification on aggressive thoughts and enjoyment after playing a violent video game. <em>Cyberpsychology &amp; Behavior, 18</em>(12), 711-717.</li>
+    <li>Jung, S., <strong>Lee, K. M.</strong>, &amp; Biocca, F. (2015). Voice Control System and Multiplatform Use: Specialist Vs. Generalist? In S. Yamamoto (Ed.), Human Interface and the Management of Information. HIMI 2015. Lecture Notes in Computer Science, vol 9172. Springer. <a href="https://doi.org/10.1007/978-3-319-20612-7_57" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Park, N., Rhoads, M., Hou, J., &amp; <strong>Lee, K. M.</strong> (2014). Understanding the acceptance of teleconferencing systems among employees: An extension of the technology acceptance model. <em>Computers in Human Behavior, 39</em>, 118-127.</li>
+    <li>Park, N., Song, H., &amp; <strong>Lee, K. M.</strong> (2014). Social networking sites and other media use, acculturation stress, and psychological well-being among East Asian college students in the United States. <em>Computers in Human Behavior, 36</em>, 138-146.</li>
+    <li>Song, H., Kim, J., &amp; <strong>Lee, K. M.</strong> (2014). Virtual body vs. real body in exergames: Reducing social physique anxiety in exercise experiences. <em>Computers in Human Behavior, 36</em>, 282-285.</li>
+    <li>Cho, E. J., <strong>Lee, K. M.</strong>, Cho, S. M., &amp; Choi, Y. H. (2014). Effects of stereoscopic movies: The positions of stereoscopic objects and the viewing conditions. <em>Displays, 35</em>(2), 59-65.</li>
+    <li>Song, H., Kim, J., Tenzek, K. E., &amp; <strong>Lee, K. M.</strong> (2013). The effects of competition and competitiveness upon intrinsic motivation in exergames. <em>Computers in Human Behavior, 29</em>(4), 1702-1708.</li>
+    <li>Cho, E. J., &amp; <strong>Lee, K. M.</strong> (2013). Effects of 3D display: A comparison between shuttered and polarized displays. <em>Displays, 34</em>(4), 353-358.</li>
+    <li>Hou, J., Nam, Y., Peng, W., &amp; <strong>Lee, K. M.</strong> (2012). Effects of screen size, viewing angle, and players&#39; immersion tendencies on game experience. <em>Computers in Human Behavior, 28</em>(2), 617-623.</li>
+    <li>Lee, K. W., <strong>Lee, K. M.</strong>, &amp; Choo, H. S. (2012). Impression formation in mobile communication with multimedia caller identification. <em>International Journal of Mobile Communications, 10</em>, 323-336. <a href="https://doi.org/10.1504/IJMC.2012.048115" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+    <li>Kwon, Y., Lee, C., Lee, K., &amp; Nam, K. (2011). The inhibitory effect of phonological syllables, rather than orthographic syllables, as evidenced in Korean lexical decision tasks. <em>Psychologia, 54</em>(1), 1-14.</li>
+    <li>Gearhart, S., Kang, S., &amp; <strong>Lee, K. M.</strong> (2011). Self-presentation on social network sites: Development of a self-identity expression scale and its relationship with social competence. <em>Iowa Journal of Communication, 43</em>, 29-51.</li>
+    <li>Park, N., Jung, Y., &amp; <strong>Lee, K. M.</strong> (2011). Intention to upload video content on the internet: The role of social norms and ego-involvement. <em>Computers in Human Behavior, 27</em>(5), 1996-2004.</li>
+    <li><strong>Lee, K. M.</strong>, Jeong, E. J., Park, N., &amp; Ryu, S. (2011). Effects of interactivity in educational games: A mediating role of social presence on learning outcomes. <em>International Journal of Human-Computer Interaction, 27</em>(7), 620-633.</li>
+    <li><strong>Lee, K. M.</strong>, Jung, Y., &amp; Nass, C. (2011). Can user choice alter experimental findings in human computer interaction?: Similarity attraction versus cognitive dissonance in social responses to synthetic speech. <em>International Journal of Human-Computer Interaction, 27</em>(4), 307-322.</li>
+    <li><strong>Lee, K. M.</strong>, Yates, D., Clark, J., &amp; Sawy, O. E. (2010). Value creation of mobile services through presence: Designing mobile information and entertainment applications with presence in mind. <em>Presence: Teleoperators and Virtual Environments, 19</em>(3), 265-279.</li>
+    <li>Jin, S., &amp; <strong>Lee, K. M.</strong> (2010). The influence of regulatory fit and interactivity on brand satisfaction and trust in E-Health marketing inside 3D virtual worlds (Second Life). <em>Cyberpsychology &amp; Behavior, 13</em>(6), 673-680.</li>
+    <li>Song, H., Peng, W., &amp; <strong>Lee, K. M.</strong> (2010). Promoting exercise self-efficacy with an exergame. <em>Journal of Health Communication, 16</em>(2), 148-162.</li>
+    <li><strong>Lee, K. M.</strong>, Peng, W., &amp; Klein, J. (2010). Will the experience of playing a violent role in a video game influence people&#39;s judgments of violent crimes? <em>Computers in Human Behavior, 26</em>(5), 1019-1023.</li>
+    <li>Park, N., <strong>Lee, K. M.</strong>, Jin, S. A., &amp; Kang, S. (2010). Effects of pre-game stories on feelings of presence and evaluation of computer games. <em>International Journal of Human-Computer Studies, 68</em>(11), 822-833.</li>
+    <li>Park, N., &amp; <strong>Lee, K. M.</strong> (2010). Wireless cities: Local governments&#39; involvement in the shaping of Wi-Fi networks. <em>Journal of Broadcasting &amp; Electronic Media, 54</em>(3), 425-442.</li>
+    <li><strong>Lee, K. M.</strong> (2009). Presence theory. In S. Littlejohn &amp; K. Foss (Eds.), Encyclopedia of Communication Theory (pp. 793-796). Sage.</li>
+    <li>Lee, K., Peng, W., &amp; Park, N. (2009). Effects of computer/video games, and beyond. In J. Bryant &amp; M. B. Oliver (Eds.), Media Effects: Advances in Theory and Research (pp. 551-566). Routledge.</li>
+    <li><strong>Lee, K. M.</strong> (2008). The media equation. In W. Donsbach (Ed.), The International Encyclopedia of Communication (Vol. VII, pp. 2904-2907). Blackwell Publishing.</li>
+    <li><strong>Lee, K. M.</strong> (2008). Interactivity in reception. In W. Donsbach (Ed.), The International Encyclopedia of Communication (Vol. V, pp. 2322-2326). Blackwell Publishing.</li>
+    <li>Park, N., &amp; <strong>Lee, K. M.</strong> (2007). Effects of online news forum on corporate reputation. <em>Public Relations Review, 33</em>(3), 346-348.</li>
+    <li>Park, N., <strong>Lee, K. M.</strong>, &amp; Cheong, P. H. (2007). User acceptance of e-learning in higher education: An application of the technology acceptance model. <em>Journal of Computer-Mediated Communication, 13</em>(1), 163-185.</li>
+    <li><strong>Lee, K. M.</strong>, Liao, K., &amp; Ryu, S. (2007). Children&#39;s learning through computer-synthesized speech: Gender-consistency and gender-similarity effects. <em>Human Communication Research, 33</em>(3), 310-329.</li>
+    <li><strong>Lee, K. M.</strong> (2006). Phenomenological understanding of social responses to synthesized speech. In P. Messaris &amp; L. Humphreys (Eds.), Digital Media: Transformations in Human Communication (pp. 127-138). Peter Lang.</li>
+    <li><strong>Lee, K. M.</strong> (2006). Effects of internet use on college students&#39; political efficacy. <em>Cyberpsychology &amp; Behavior, 9</em>(4), 415-422.</li>
+    <li><strong>Lee, K. M.</strong>, Peng, W., Yan, C., &amp; Jin, S. (2006). Can robots manifest personality?: An empirical test of personality recognition, social responses, and social presence in human-robot interaction. <em>Journal of Communication, 56</em>(4), 754-772.</li>
+    <li><strong>Lee, K. M.</strong>, Jung, Y., Kim, J., &amp; Kim, S. (2006). Are physically embodied social agents better than disembodied social agents?: The effects of physical embodiment, tactile interaction, and people&#39;s loneliness in human-robot interaction. <em>International Journal of Human-Computer Studies, 64</em>(10), 962-973.</li>
+    <li><strong>Lee, K. M.</strong>, Park, N., &amp; Jin, S. (2006). Narrative and interactivity in computer games. In P. Vorderer &amp; J. Bryant (Eds.), Playing Video Games: Motives, Responses, and Consequences (pp. 259-274). Lawrence Erlbaum Associates.</li>
+    <li><strong>Lee, K. M.</strong>, &amp; Jung, Y. (2005). Evolutionary nature of virtual experience. <em>Journal of Cultural and Evolutionary Psychology, 3</em>(2), 159-178.</li>
+    <li><strong>Lee, K. M.</strong>, &amp; Nass, C. (2005). Social-psychological origins of feelings of presence: Creating social presence with machine-generated voices. <em>Media Psychology, 7</em>(1), 31-45.</li>
+    <li><strong>Lee, K. M.</strong>, &amp; Lai, J. (2005). Speech vs. touch: A comparative study of the use of speech and DTMF keypad for navigation. <em>International Journal of Human-Computer Interaction, 19</em>(3), 343-360.</li>
+    <li><strong>Lee, K. M.</strong>, Park, N., &amp; Song, H. (2005). Can a robot be perceived as a developing creature?: Effects of a robot&#39;s long-term cognitive developments on its social presence and people&#39;s social responses toward it. <em>Human Communication Research, 31</em>(4), 538-563.</li>
+    <li><strong>Lee, K. M.</strong> (2004). Why presence occurs: Evolutionary psychology, media equation, and presence. <em>Presence: Teleoperators and Virtual Environments, 13</em>(4), 494-505.</li>
+    <li><strong>Lee, K. M.</strong> (2004). Presence, explicated. <em>Communication Theory, 14</em>(1), 27-50.</li>
+    <li>Jonsson, I., Nass, C., &amp; <strong>Lee, K. M.</strong> (2004). Mixing personal computer and handheld interfaces and devices: Effects on perceptions and attitudes. <em>International Journal of Human-Computer Studies, 61</em>(1), 71-83.</li>
+    <li><strong>Lee, K. M.</strong>, &amp; Nass, C. (2004). The multiple source effect and synthesized speech: Doubly disembodied language as a conceptual framework. <em>Human Communication Research, 30</em>(2), 182-207.</li>
+    <li>Lai, J., Mitchell, S., Viveros, M., Wood, D., &amp; <strong>Lee, K. M.</strong> (2002). Ubiquitous access to unified messaging: A study of usability and the limits of pervasive computing. <em>International Journal of Human-Computer Interaction, 14</em>(3), 385-404.</li>
+    <li><strong>Lee, K. M.</strong> (2002). Modeling the regional differences in 3G standardization: The entrepreneur, the committee, and the gambler. <em>Communications &amp; Strategies, 47</em>, 11-32.</li>
+    <li>Nass, C., &amp; <strong>Lee, K. M.</strong> (2001). Does computer-generated speech manifest personality?: Experimental tests of recognition, similarity-attraction, and consistency-attraction. <em>Journal of Experimental Psychology: Applied, 7</em>(3), 171-181.</li>
+    <li><strong>Lee, K. M.</strong> (2000). MUDs and self-efficacy. <em>Educational Media International, 37</em>(3), 177-183.</li>
+  </ul>
 
-<!-- 1. Timeline View (Default) -->
-<div id="timelineView" class="pub-view-container">
-  {% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
-  {% for year in years %}
-  {% assign year_papers = site.data.publications | where: "year", year %}
-  <div class="pub-group" data-group-year="{{ year }}">
-    <h2 class="pub-group__heading">
-      <span>{{ year }}</span>
-      <span class="pub-group__count">{{ year_papers.size }}</span>
-    </h2>
+  <h2 id="conference-presentations">Conference Presentations</h2>
+  <ul class="clean-bullet-list">
+    <li>Nan, D., Sun, S., Gopi, S., <strong>Lee, K. M.</strong>, &amp; Kim, J. H. (2023). A bibliometric analysis of Metaverse research using VOSviewer. <em>Proceedings of 17th International Conference on Ubiquitous Information Management and Communication (IMCOM)</em>, 1-4. <a href="https://doi.org/10.1109/IMCOM56909.2023.10035584" target="_blank" rel="noopener noreferrer">Read it here</a></li>
+  </ul>
 
-    <div class="pub-group__items">
-      {% for pub in year_papers %}
-      <article class="paper-item" data-title="{{ pub.title | escape }}" data-meta="{{ pub.meta | escape }}" data-year="{{ pub.year }}">
-        <h3 class="paper-title">{{ pub.title }}</h3>
-        <p class="paper-meta">{{ pub.meta }}</p>
-        <div class="paper-links">
-          {% if pub.abstract and pub.abstract != "" %}
-          <button type="button" class="btn-paper js-toggle-abstract" data-target="abstract-time-{{ forloop.parentloop.index }}-{{ forloop.index }}">
-            <i class="fa-solid fa-angle-down"></i> Abstract
-          </button>
-          {% endif %}
-          {% if pub.url and pub.url != "" %}
-          <a href="{{ pub.url }}" target="_blank" rel="noopener noreferrer" class="btn-paper btn-paper--link">
-            View Paper / DOI &rarr;
-          </a>
-          {% endif %}
-        </div>
-        {% if pub.abstract and pub.abstract != "" %}
-        <div id="abstract-time-{{ forloop.parentloop.index }}-{{ forloop.index }}" class="paper-abstract">
-          <div class="paper-abstract__inner"><div class="paper-abstract__text">{{ pub.abstract }}</div></div>
-        </div>
-        {% endif %}
-      </article>
-      {% endfor %}
-    </div>
-  </div>
-  {% endfor %}
-</div>
+  <h2 id="keynote-speeches">Keynote Speeches</h2>
+  <p>Keynote speeches will be added soon.</p>
 
-<!-- 2. Theme View -->
-<div id="themeView" class="pub-view-container" style="display: none;">
-  {% for theme_item in site.data.publication_themes %}
-  {% assign theme = theme_item.name %}
-  {% assign theme_papers = "" | split: "" %}
-  {% for pub in site.data.publications %}
-    {% if pub.themes contains theme %}
-      {% assign theme_papers = theme_papers | push: pub %}
-    {% endif %}
-  {% endfor %}
-  {% if theme_papers.size > 0 %}
-  <div class="pub-group" data-group-theme="{{ theme }}">
-    <h2 class="pub-group__heading">
-      <span>{{ theme }}</span>
-      <span class="pub-group__count">{{ theme_papers.size }}</span>
-    </h2>
-
-    <div class="pub-group__items">
-      {% for pub in theme_papers %}
-      <article class="paper-item" data-title="{{ pub.title | escape }}" data-meta="{{ pub.meta | escape }}" data-year="{{ pub.year }}">
-        <h3 class="paper-title">{{ pub.title }}</h3>
-        <p class="paper-meta">{{ pub.meta }}</p>
-        <div class="paper-links">
-          {% if pub.abstract and pub.abstract != "" %}
-          <button type="button" class="btn-paper js-toggle-abstract" data-target="abstract-theme-{{ forloop.parentloop.index }}-{{ forloop.index }}">
-            <i class="fa-solid fa-angle-down"></i> Abstract
-          </button>
-          {% endif %}
-          {% if pub.url and pub.url != "" %}
-          <a href="{{ pub.url }}" target="_blank" rel="noopener noreferrer" class="btn-paper btn-paper--link">
-            View Paper / DOI &rarr;
-          </a>
-          {% endif %}
-        </div>
-        {% if pub.abstract and pub.abstract != "" %}
-        <div id="abstract-theme-{{ forloop.parentloop.index }}-{{ forloop.index }}" class="paper-abstract">
-          <div class="paper-abstract__inner"><div class="paper-abstract__text">{{ pub.abstract }}</div></div>
-        </div>
-        {% endif %}
-      </article>
-      {% endfor %}
-    </div>
-  </div>
-  {% endif %}
-  {% endfor %}
+  <h2 id="books">Books</h2>
+  <p>Books will be added soon.</p>
 </div>

@@ -12,7 +12,7 @@
   <title>{{ seo_title | escape }}</title>
   {% assign seo_desc = page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 %}
   {% assign seo_canon = page.canonical_url | default: page.url | absolute_url %}
-  {% assign seo_img = page.hero_image | default: '/images/hero/home.jpg' | absolute_url %}
+  {% assign seo_img = page.hero_image | default: '/images/hero/Collaborative Human-AI Innovation Lab-3.jpg' | absolute_url %}
   <meta name="description" content="{{ seo_desc | escape }}">
   <link rel="canonical" href="{{ seo_canon }}">
   {% if page.noindex or page.url == '/404.html' %}<meta name="robots" content="noindex">{% endif %}
@@ -57,7 +57,7 @@
   {% elsif page.is_home %}
     <header class="page-hero home-hero" aria-label="HAIL Banner">
       <div class="hero-bg-layer">
-        <img src="{{ page.hero_image | default: '/images/hero/home.jpg' | relative_url }}" alt="Hero banner" class="hero-img" style="object-position: {{ page.hero_crop | default: 'center 40%' }};">
+        <img src="{{ page.hero_image | default: '/images/hero/Collaborative Human-AI Innovation Lab-3.jpg' | relative_url }}" alt="Hero banner" class="hero-img" style="object-position: {{ page.hero_crop | default: 'center 40%' }};">
       </div>
       <div class="hero-scrim" aria-hidden="true"></div>
       <div class="hero-content-layer container">
@@ -72,7 +72,7 @@
   {% elsif page.hero_image or page.title %}
     <header class="page-hero" aria-label="{{ page.title }}">
       <div class="hero-bg-layer">
-        <img src="{{ page.hero_image | default: '/images/hero/home.jpg' | relative_url }}" alt="{{ page.title }} banner" class="hero-img" style="object-position: {{ page.hero_crop | default: 'center 38%' }};">
+        <img src="{{ page.hero_image | default: '/images/hero/Collaborative Human-AI Innovation Lab-3.jpg' | relative_url }}" alt="{{ page.title }} banner" class="hero-img" style="object-position: {{ page.hero_crop | default: 'center 38%' }};">
       </div>
       <div class="hero-scrim" aria-hidden="true"></div>
       <div class="hero-content-layer container">

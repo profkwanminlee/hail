@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 hero_title: "People"
 hero_subtitle: "Faculty investigators, doctoral researchers, visiting scholars, and student collaborators."
-hero_image: "/images/hero/Human-AI Collaboration Lab-2.png"
+hero_image: "/images/hero/Human-AI Collaboration Lab-2.jpg"
 hero_crop: "center 35%"
 description: "Faculty, researchers, students, and alumni of the Human-AI Interaction Lab (HAIL) and Interaction Lab, NTU Singapore."
 ---
@@ -14,7 +14,7 @@ description: "Faculty, researchers, students, and alumni of the Human-AI Interac
 
   <div class="director-profile-wrap">
     <div class="director-avatar-wrap">
-      <img src="{{ '/images/people/kwanminlee.jpg' | relative_url }}" alt="Prof. Kwan Min Lee" class="director-avatar-img">
+      <img src="{{ '/images/people/kwanminlee.avif' | relative_url }}" alt="Prof. Kwan Min Lee" class="director-avatar-img">
     </div>
     <div class="director-meta-wrap">
       <h3 class="director-name-title"><a href="https://kwanminlee.com" target="_blank" rel="noopener noreferrer" class="person-profile-link" title="Visit my website!" style="text-decoration: none;">Kwan Min Lee</a></h3>
@@ -34,7 +34,7 @@ description: "Faculty, researchers, students, and alumni of the Human-AI Interac
   <div class="people-list-container">
     <div class="person-list-row">
       <div class="person-avatar-wrap">
-        <img src="{{ '/images/people/shreyagopi.jpg' | relative_url }}" alt="Shreya Gopi" class="person-avatar-img">
+        <img src="{{ '/images/people/shreyagopi.avif' | relative_url }}" alt="Shreya Gopi" class="person-avatar-img">
       </div>
       <div class="person-meta-wrap">
         <h3 class="person-name-title">Shreya Gopi</h3>
@@ -48,7 +48,7 @@ description: "Faculty, researchers, students, and alumni of the Human-AI Interac
 
     <div class="person-list-row">
       <div class="person-avatar-wrap">
-        <img src="{{ '/images/people/lixie.jpg' | relative_url }}" alt="Li Xie (Sherry)" class="person-avatar-img">
+        <img src="{{ '/images/people/lixie.avif' | relative_url }}" alt="Li Xie (Sherry)" class="person-avatar-img">
       </div>
       <div class="person-meta-wrap">
         <h3 class="person-name-title">Li Xie (Sherry)</h3>
@@ -62,7 +62,7 @@ description: "Faculty, researchers, students, and alumni of the Human-AI Interac
 
     <div class="person-list-row">
       <div class="person-avatar-wrap">
-        <img src="{{ '/images/people/yanqinwu.jpg' | relative_url }}" alt="Yanqin Wu (Yasmin)" class="person-avatar-img">
+        <img src="{{ '/images/people/yanqinwu.avif' | relative_url }}" alt="Yanqin Wu (Yasmin)" class="person-avatar-img">
       </div>
       <div class="person-meta-wrap">
         <h3 class="person-name-title">Yanqin Wu (Yasmin)</h3>
@@ -76,7 +76,7 @@ description: "Faculty, researchers, students, and alumni of the Human-AI Interac
 
     <div class="person-list-row">
       <div class="person-avatar-wrap">
-        <img src="{{ '/images/people/heyongsunim.jpg' | relative_url }}" alt="Heyongsun Im" class="person-avatar-img">
+        <img src="{{ '/images/people/heyongsunim.avif' | relative_url }}" alt="Heyongsun Im" class="person-avatar-img">
       </div>
       <div class="person-meta-wrap">
         <h3 class="person-name-title">Heyongsun Im</h3>
@@ -90,7 +90,7 @@ description: "Faculty, researchers, students, and alumni of the Human-AI Interac
 
     <div class="person-list-row">
       <div class="person-avatar-wrap">
-        <img src="{{ '/images/people/keqichen.jpg' | relative_url }}" alt="Keqi Chen" class="person-avatar-img">
+        <img src="{{ '/images/people/keqichen.avif' | relative_url }}" alt="Keqi Chen" class="person-avatar-img">
       </div>
       <div class="person-meta-wrap">
         <h3 class="person-name-title">Keqi Chen</h3>
@@ -104,7 +104,7 @@ description: "Faculty, researchers, students, and alumni of the Human-AI Interac
 
     <div class="person-list-row">
       <div class="person-avatar-wrap">
-        <img src="{{ '/images/people/youngeunkim.jpg' | relative_url }}" alt="Young Eun Kim" class="person-avatar-img">
+        <img src="{{ '/images/people/youngeunkim.avif' | relative_url }}" alt="Young Eun Kim" class="person-avatar-img">
       </div>
       <div class="person-meta-wrap">
         <h3 class="person-name-title">Young Eun Kim</h3>
@@ -122,7 +122,7 @@ description: "Faculty, researchers, students, and alumni of the Human-AI Interac
   <div class="people-list-container">
     <div class="person-list-row">
       <div class="person-avatar-wrap">
-        <img src="{{ '/images/people/manan.jpg' | relative_url }}" alt="Manan Sethia" class="person-avatar-img">
+        <img src="{{ '/images/people/manan.avif' | relative_url }}" alt="Manan Sethia" class="person-avatar-img">
       </div>
       <div class="person-meta-wrap">
         <h3 class="person-name-title"><a href="https://manansethia.com" target="_blank" rel="noopener noreferrer" class="person-profile-link" title="Visit my website!" style="text-decoration: none;">Manan Sethia</a></h3>
